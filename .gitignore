@@ -219,3 +219,5 @@ __marimo__/
 
 
 medbot_venv/
+data/
+faiss_index/
