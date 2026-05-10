@@ -1,6 +1,6 @@
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
-import streamlit as st
+import streamlit_app as st
 from dotenv import load_dotenv
 import os
 
