@@ -15,6 +15,7 @@ touch setup.py
 touch app.py
 touch streamlit.py
 touch store_index.py
+touch render.yaml
 touch research/trials.ipynb
 touch requirements.txt
 
