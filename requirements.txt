@@ -10,7 +10,7 @@ sentence-transformers==3.0.1
 transformers==4.44.2
 huggingface-hub==0.24.6
 
-torch==2.4.1
+#torch==2.4.1
 numpy==1.26.4
 
 faiss-cpu==1.8.0.post1

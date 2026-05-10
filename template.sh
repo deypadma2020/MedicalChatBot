@@ -18,6 +18,7 @@ touch store_index.py
 touch render.yaml
 touch research/trials.ipynb
 touch requirements.txt
+touch runtime.txt
 
 
 echo "directory and files created successfully!"
